@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace EFContext
 {
     public class MyDbContext:DbContext
@@ -16,5 +17,6 @@ namespace EFContext
 
         public DbSet<User> User { get; set; }
 
+       
     }
 }
