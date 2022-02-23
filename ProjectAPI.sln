@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAPI", "ProjectAPI\ProjectAPI.csproj", "{219F3295-D016-46A1-BD52-1154C3D91ED2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectAPI", "ProjectAPI\ProjectAPI.csproj", "{219F3295-D016-46A1-BD52-1154C3D91ED2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFContext", "EFContext\EFContext.csproj", "{D193ABFE-95A7-4C25-AC71-F45E35BCE28E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFContext", "EFContext\EFContext.csproj", "{D193ABFE-95A7-4C25-AC71-F45E35BCE28E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{1525A2D0-DE76-45AD-82AB-D5DCC180A88C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{1525A2D0-DE76-45AD-82AB-D5DCC180A88C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRepositorySqlDb", "IRepositorySqlDb\IRepositorySqlDb.csproj", "{2466FBCD-BED9-4167-A369-86F8E59984C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRepositorySqlDb", "IRepositorySqlDb\IRepositorySqlDb.csproj", "{2466FBCD-BED9-4167-A369-86F8E59984C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorySqlDb", "RepositorySqlDb\RepositorySqlDb.csproj", "{B12AFFD1-7A93-4111-964C-14847EC758E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositorySqlDb", "RepositorySqlDb\RepositorySqlDb.csproj", "{B12AFFD1-7A93-4111-964C-14847EC758E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IServices", "IServices\IServices.csproj", "{CDA2A051-46A0-4509-B713-36A4AA28633C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IServices", "IServices\IServices.csproj", "{CDA2A051-46A0-4509-B713-36A4AA28633C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{EAD4F607-E30B-41EB-A211-F88A4160C753}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{EAD4F607-E30B-41EB-A211-F88A4160C753}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
